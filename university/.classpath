@@ -25,7 +25,10 @@
   <classpathentry kind="var" path="M2_REPO/org/springframework/spring-core/4.0.0.RELEASE/spring-core-4.0.0.RELEASE.jar"/>
   <classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar"/>
   <classpathentry kind="var" path="M2_REPO/org/springframework/spring-expression/4.0.0.RELEASE/spring-expression-4.0.0.RELEASE.jar"/>
-  <classpathentry kind="var" path="M2_REPO/org/apache/tomcat/dbcp/6.0.37/dbcp-6.0.37.jar"/>
-  <classpathentry kind="var" path="M2_REPO/commons-collections/commons-collections/20040616/commons-collections-20040616.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-tx/4.0.0.RELEASE/spring-tx-4.0.0.RELEASE.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-orm/4.0.0.RELEASE/spring-orm-4.0.0.RELEASE.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-jdbc/4.0.0.RELEASE/spring-jdbc-4.0.0.RELEASE.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-dbcp/commons-dbcp/1.4/commons-dbcp-1.4.jar"/>
   <classpathentry kind="var" path="M2_REPO/commons-pool/commons-pool/1.6/commons-pool-1.6.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-collections/commons-collections/20040616/commons-collections-20040616.jar"/>
 </classpath>
